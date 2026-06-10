@@ -1,0 +1,6 @@
+{
+  "name": "十二國記介紹",
+  "description": "十二國記故事與世界觀介紹",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
